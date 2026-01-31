@@ -1,4 +1,4 @@
-# Online_learning_platform_java_springboot_app
+# Community_skills_exchange_platform_java_springboot_app
 
 
 ## Description:
