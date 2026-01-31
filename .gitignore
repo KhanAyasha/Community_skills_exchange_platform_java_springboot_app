@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Java / Maven build outputs
+**/target/
+**/build/
+**/dist/
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/*.log
+
+# NetBeans
+**/nbproject/private/
+**/nbbuild/
+**/nbdist/
+**/.nb-gradle/
+
+# IntelliJ / Eclipse
+**/.idea/
+**/.project
+**/.classpath
+**/.settings/
+
+# Env / local config
+**/.env
+**/.env.*
